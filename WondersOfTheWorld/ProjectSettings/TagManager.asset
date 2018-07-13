@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MuseumEntrance
+  - Door
+  - Portal
+  - Frame_A
+  - Frame_B
+  - Lever
+  - Temple_to_Burn
+  - Temple_to_Collide
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Background
+  - PlayerGround
+  - Enemy
+  - Cliff
+  - Wall
+  - Temple
+  - Bush
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3804208787
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

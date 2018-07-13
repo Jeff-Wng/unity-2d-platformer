@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TItle Screen.unity
+  - enabled: 1
+    path: Assets/Scenes/OutsideMuseum.unity
+  - enabled: 1
+    path: Assets/Scenes/Room1.unity
+  - enabled: 1
+    path: Assets/Scenes/OM_Exit.unity
+  - enabled: 1
+    path: Assets/Scenes/Frame_1.unity
+  - enabled: 1
+    path: Assets/Scenes/Frame_2.unity
+  - enabled: 1
+    path: Assets/Scenes/F_Exit_1.unity
+  - enabled: 1
+    path: Assets/Scenes/F_Exit_2.unity
+  - enabled: 1
+    path: Assets/Scenes/Temple.unity
+  - enabled: 1
+    path: Assets/Scenes/Temple 1.unity
+  - enabled: 1
+    path: Assets/Scenes/Quiz.unity
+  - enabled: 1
+    path: Assets/Scenes/Burning_Temple.unity
+  - enabled: 1
+    path: Assets/Scenes/GameOver_Lose.unity
+  - enabled: 1
+    path: Assets/Scenes/GameOver_Win.unity
+  - enabled: 1
+    path: Assets/Scenes/SavingScores.unity
+  - enabled: 1
+    path: Assets/Scenes/HighScores.unity
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
